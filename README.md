@@ -30,10 +30,3 @@ The program follows these main steps:
 5. Verification of the signature using the public key.
 
 The hashing functions are directly imported from the corresponding Python libraries.
-
-## Usage
-
-Clone the repository:
-
-```bash
-git clone https://gitlab.inria.fr/guillevi/stage-l3-alexandre-autran
